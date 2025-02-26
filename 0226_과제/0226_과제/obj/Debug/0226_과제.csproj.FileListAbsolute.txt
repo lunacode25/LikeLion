@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\0226_과제\0226_과제\bin\Debug\0226_과제.exe.config
+C:\LikeLion\LikeLion\0226_과제\0226_과제\bin\Debug\0226_과제.exe
+C:\LikeLion\LikeLion\0226_과제\0226_과제\bin\Debug\0226_과제.pdb
+C:\LikeLion\LikeLion\0226_과제\0226_과제\obj\Debug\0226_과제.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\0226_과제\0226_과제\obj\Debug\0226_과제.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\0226_과제\0226_과제\obj\Debug\0226_과제.exe
+C:\LikeLion\LikeLion\0226_과제\0226_과제\obj\Debug\0226_과제.pdb
